@@ -18,5 +18,5 @@ services:
     build: 
       context: ./webapp
     volumes: 
-      - ./dogs:/app/src/dogs
+      - ./dogs:/webapp/src/dogs
     command: ['celery', '--workdir=./src', '-A', 'proj', 'worker' ]
