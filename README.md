@@ -26,8 +26,8 @@ Open a terminal window and navigate to the webapp directory of the DjangoPaws pr
 
 Activate the virtual environment by running the following command:
 
-source `venv/scripts/activate` (for Windows)
-source `venv/bin/activate` (for Linux/Mac)
+- source `venv/scripts/activate` (for Windows)
+- source `venv/bin/activate` (for Linux/Mac)
 
 Navigate to the project directory by running the following command:
 `cd ..`
