@@ -20,6 +20,8 @@ The code is organized into three main components: the web application 🌐, the 
 
 - **[Redis](https://redis.io/)**
 
+- **[Docker](https://www.docker.com/)**
+
 #### Commands to launch the project using Docker
 
 Open a terminal window and navigate to the webapp directory of the DjangoPaws project, `cd webapp`
